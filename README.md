@@ -302,13 +302,8 @@ The full pipeline — from mounting Google Drive, through HEIC conversion, datas
 
 
 
-\---
 
 
 
-\## 📄 License
 
-
-
-\*(Add a license if you want this repo to be reusable by others, e.g. MIT.)\*
 
